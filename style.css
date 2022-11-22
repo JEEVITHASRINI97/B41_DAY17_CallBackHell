@@ -1,0 +1,17 @@
+body{
+    background:rgb(145, 115, 185);
+}
+.countdown{
+    margin-top: 100px;
+    padding:50px;
+   border-radius: 1%;
+   align-content: center;
+   background-color: rgb(88, 29, 197);
+   font-size:30px;
+   border: 20px solid rgb(236, 16, 126);
+   display:block;
+   text-align:center;
+   font-weight: 60px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
